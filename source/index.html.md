@@ -2,7 +2,7 @@
 title: Austin's Playground
 
 language_tabs: # must be one of https://git.io/vQNgJ
-  - shell
+  - Markdown
   - ruby
   - python
   - javascript
@@ -19,13 +19,11 @@ search: true
 code_clipboard: true
 ---
 
-# Austin's Playground
+# Introduction
 
-Welcome to Austin's playground.
+Austin Lai is a technical writer living in San Francisco.
 
-We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
-
-This example API documentation page was created with [Slate](https://github.com/slatedocs/slate). Feel free to edit it and use it as a base for your own API's documentation.
+A graduate of the University of Chicago, Austin has dabbled in social science research, food/cultural anthropology, and accessibility politics.
 
 # Authentication
 
