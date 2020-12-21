@@ -21,9 +21,9 @@ code_clipboard: true
 
 # Introduction
 
-Austin Lai is a technical writer/content designer living in San Francisco.
+Austin Lai is a technical writer and content designer living in San Francisco.
 
-A graduate of the University of Chicago, Austin has dabbled in social science research, food/cultural anthropology, and accessibility politics.
+Austin has a degree in Comparative Human Development from the University of Chicago and loves social science research, food anthropology, and accessibility politics. A film buff, Austin has attended several film festivals across the world, including the Chicago International Film Festival and the Cannes Film Festival.
 
 # Authentication
 
