@@ -21,7 +21,7 @@ code_clipboard: true
 
 # Introduction
 
-Austin Lai is a technical writer living in San Francisco.
+Austin Lai is a technical writer/content designer living in San Francisco.
 
 A graduate of the University of Chicago, Austin has dabbled in social science research, food/cultural anthropology, and accessibility politics.
 
