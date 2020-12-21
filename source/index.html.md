@@ -23,47 +23,9 @@ code_clipboard: true
 
 Austin Lai is a technical writer and content designer living in San Francisco.
 
-Austin has a degree in Comparative Human Development from the University of Chicago and loves social science research, food anthropology, and accessibility politics. A film buff, Austin has attended several film festivals across the world, including the Chicago International Film Festival and the Cannes Film Festival.
+# About Me
 
-# Authentication
-
-> To authorize, use this code:
-
-```ruby
-require 'kittn'
-
-api = Kittn::APIClient.authorize!('meowmeowmeow')
-```
-
-```python
-import kittn
-
-api = kittn.authorize('meowmeowmeow')
-```
-
-```shell
-# With shell, you can just pass the correct header with each request
-curl "api_endpoint_here" \
-  -H "Authorization: meowmeowmeow"
-```
-
-```javascript
-const kittn = require('kittn');
-
-let api = kittn.authorize('meowmeowmeow');
-```
-
-> Make sure to replace `meowmeowmeow` with your API key.
-
-Kittn uses API keys to allow access to the API. You can register a new Kittn API key at our [developer portal](http://example.com/developers).
-
-Kittn expects for the API key to be included in all API requests to the server in a header that looks like the following:
-
-`Authorization: meowmeowmeow`
-
-<aside class="notice">
-You must replace <code>meowmeowmeow</code> with your personal API key.
-</aside>
+Austin has a degree in Comparative Human Development from the University of Chicago and is passionate about social science research, food anthropology, and accessibility politics. He also produced short-form videos for UChicago Admissions and Fire Escape Films.
 
 # Kittens
 
